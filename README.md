@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apsurt&label=Profile%20views&color=0e75b6&style=flat" alt="apsurt" /> </p>
 
-- 🔭 I’m currently working on [pyNonogram](https://github.com/Apsurt/pyNonogram)
+- 🔭 I’m currently working on [wikipedia-speedrun](https://github.com/Apsurt/wikipedia-speedrun)
 
 - 🌱 I’m currently learning **python packaging**
-
-- 🤝 I’m looking for help with [pyNonogram](https://github.com/Apsurt/pyNonogram)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Apsurt](https://github.com/Apsurt)
 
