@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apsurt&label=Profile%20views&color=0e75b6&style=flat" alt="apsurt" /> </p>
 
-- 🔭 I’m currently working on [wikipedia-speedrun](https://github.com/Apsurt/wikipedia-speedrun)
+- 🔭 I’m currently working on [quasar-chess-engine](https://github.com/Apsurt/quasar-chess-engine)
 
-- 🌱 I’m currently learning **python packaging**
+- 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Apsurt](https://github.com/Apsurt)
 
-- 📫 How to reach me **tymon@becella.eu**
+- 📫 How to reach me **tymon.becella@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
