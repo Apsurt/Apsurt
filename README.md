@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apsurt&label=Profile%20views&color=0e75b6&style=flat" alt="apsurt" /> </p>
 
-- 🔭 I’m currently working on [quasar-chess-engine](https://github.com/Apsurt/quasar-chess-engine)
+- 🔭 I’m currently working on [omni-geo-ai](https://github.com/Apsurt/omni-geo-ai)
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C and DeepLearning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Apsurt](https://github.com/Apsurt)
 
