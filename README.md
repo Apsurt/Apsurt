@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [omni-geo-ai](https://github.com/Apsurt/omni-geo-ai)
 
-- 🌱 I’m currently learning **Rust and AI DeepLearning**
+- 🌱 I’m currently learning **Rust and AI DeepLearning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Apsurt](https://github.com/Apsurt)
 
